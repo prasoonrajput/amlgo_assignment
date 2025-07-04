@@ -1,5 +1,3 @@
-"""
-
 # RAG Chatbot with ChatGPT - Amlgo Labs Assignment
 
 ## Overview
@@ -27,8 +25,8 @@ This is a Retrieval-Augmented Generation (RAG) chatbot built with Streamlit that
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd rag-chatbot
+git clone https://github.com/prasoonrajput/amlgo_assignment.git
+cd amlgo_assignment
 ```
 
 2. Create virtual environment:
