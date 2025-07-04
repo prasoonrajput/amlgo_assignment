@@ -78,14 +78,25 @@ streamlit run app.py
 5. Wait for processing to complete
 6. Start chatting with your document!
 
+## Demo
+Demo link:- https://youtu.be/VD5hGXCHPYM
+Github link:- https://github.com/prasoonrajput/amlgo_assignment
+
 ## Sample Queries
 
-- "What are the main terms and conditions?"
-- "How is user data protected?"
-- "What are the refund policies?"
-- "Who can I contact for support?"
-- "What are the privacy implications?"
+What is the purpose of the eBay User Agreement?
 
+What entities are you contracting with depending on your region of residence?
+
+What is the legal implication of accepting the eBay User Agreement?
+
+What actions are prohibited when using eBay's services?
+
+What are the consequences of violating eBay policies?
+
+What does the Multi-User Account Access program allow?
+
+Can a user share their login credentials with others? Why or why not?
 ## Technical Details
 
 ### Document Processing
